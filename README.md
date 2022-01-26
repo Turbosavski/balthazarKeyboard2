@@ -1,3 +1,5 @@
+# balthazarKeyboard2
+
 balthazar
 
 Open-hardware laptop computer modules
@@ -5,7 +7,6 @@ Open-hardware laptop computer modules
 Electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access
 
 KiCad 5.1.5 files
-balthazarKeyboard2
 
 Computer Keyboard version 2 system built around an 8-bit Atmel ATmega 32u4 microcontroller. A normal ISO keyboard layout is used.
 
